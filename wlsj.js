@@ -73,7 +73,7 @@ music.addEventListener('timeupdate', function () {
 
 
 
-20) Скрипт повтора воспроизведения:
+
 
 var repIcon = document.querySelector('.repeat')
 
@@ -97,7 +97,6 @@ function handleRepeat() {
 
 }
 
-21) И скрипт громкости плеера:
 
 var volIcon = document.querySelector('.volume')
 
