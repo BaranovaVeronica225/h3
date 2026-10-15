@@ -10,9 +10,8 @@ body {
   position: relative;
   font-family: "Roboto", sans-serif;
 }
+background-image: "https://raw.githack.com/BaranovaVeronica225/h3/refs/heads/main/c6d19da123ba0c8d338df6f09018092d.jpg"
 .player {
-background-image: "https://raw.githack.com/BaranovaVeronica225/h3/refs/heads/main/c6d19da123ba0c8d338df6f09018092d.jpg";
-
   position: absolute;
   left: 50%;
   top: -50px;
