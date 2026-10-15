@@ -8,12 +8,12 @@ body {
   height: 100%;
   background-color: #f5e0e5;
   position: relative;
-  background-image: url("https://raw.githack.com/BaranovaVeronica225/h3/refs/heads/main/d7225a7a5f262ce0528d5f02db68ab4d.jpg");
+  background-image:"https://raw.githack.com/BaranovaVeronica225/h3/refs/heads/main/d7225a7a5f262ce0528d5f02db68ab4d.jpg";
   font-family: "Roboto", sans-serif;
 }
 
 .player {
-	background-image: url("https://raw.githack.com/BaranovaVeronica225/h3/refs/heads/main/c6d19da123ba0c8d338df6f09018092d.jpg");
+	background-image:url("https://raw.githack.com/BaranovaVeronica225/h3/refs/heads/main/c6d19da123ba0c8d338df6f09018092d.jpg");
   position: absolute;
   left: 50%;
   top: -50px;
